@@ -37,6 +37,8 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haegem&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haegem&layout=compact)](https://github.com/Haegem/github-readme-stats)
  
  #
 
