@@ -31,11 +31,11 @@
 
 <div align="left">
 <a href="https://github.com/Haegem">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Haegem&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Haegem&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Leanlima7&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Haegem&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haegem&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haegem&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
  
  #
