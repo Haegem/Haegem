@@ -4,7 +4,7 @@
 
 
 **Áreas de interesse:** Programação e Cybersecurity.
-**Estudando atualmente:** Java, C, C++, Python, SQL, Pentest.
+**Estudando atualmente:** Java, C/C++, Python, SQL, Pentest.
 
 
 # 
