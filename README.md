@@ -3,8 +3,8 @@
 💻 *Sou estudante de Engenharia de Computação no Instituto Federal Catarinense
 
 
-**Áreas de interesse:** Programação e Cybersecurity.
-**Estudando atualmente:** Java, C/C++, Python, SQL, Pentest.
+**Áreas de interesse:** Programação.
+**Estudando atualmente:** Java, C/C++, Python, SQL.
 
 
 # 
