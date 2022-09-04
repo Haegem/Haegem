@@ -20,7 +20,7 @@
 <div style="display: inline_block"><br>
     
   <img align="center" alt="Rafa-Csharp" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="80" width="90" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/next-logo.svg">
+  <img align="center" alt="Rafa-Csharp" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/js/js-original.svg">
   <img align="center" alt="Rafa-Csharp" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Rafa-Csharp" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
