@@ -12,7 +12,7 @@
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-eduardo-gebauer-rodrigues-dos-santos-45015a1a5/)
-[![GitHub](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haegem)
+[![GitHub](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mykhoy)
 
 
 **Linguagens de estudo**
@@ -34,9 +34,9 @@
 **Painel de atividades**
 
 <div align="left">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Haegem&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mykhoy&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Haegem&layout=compact&langs_count=7&theme=synthwave"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mykhoy&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
 
