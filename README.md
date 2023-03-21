@@ -4,7 +4,7 @@
 
 
 **Áreas de interesse:** Programação.
-**Estudando atualmente:** Python, HTML, CSS, PHP e HTML.
+**Estudando atualmente:** React, HTML/CSS, PHP e MySQL.
 
 
 # 
